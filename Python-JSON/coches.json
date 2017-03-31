@@ -1,0 +1,14 @@
+{
+    "coches": [
+        {
+            "matricula": "1190GGK", 
+            "modelo": "Megane", 
+            "marca": "Renault"
+        }, 
+        {
+            "matricula": "2412DTP", 
+            "modelo": "A2", 
+            "marca": "AUDI"
+        }
+    ]
+}

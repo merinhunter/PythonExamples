@@ -1,0 +1,171 @@
+<?xml version="1.1" encoding="utf-8"?>
+<discoteca>
+    <disco>
+        <titulo>
+            Big Bad World
+        </titulo>
+        <autor>
+            Plain White T's
+        </autor>
+        <cancion>
+            <titulo>
+                Big Bad World
+            </titulo>
+            <duracion>
+                3:07
+            </duracion>
+        </cancion>
+        <cancion>
+            <titulo>
+                Natural Disaster
+            </titulo>
+            <duracion>
+                3:40
+            </duracion>
+        </cancion>
+        <cancion>
+            <titulo>
+                Serious Mistake
+            </titulo>
+            <duracion>
+                3:32
+            </duracion>
+        </cancion>
+        <cancion>
+            <titulo>
+                Rainy Day
+            </titulo>
+            <duracion>
+                3:11
+            </duracion>
+        </cancion>
+        <cancion>
+            <titulo>
+                1234
+            </titulo>
+            <duracion>
+                3:18
+            </duracion>
+        </cancion>
+        <cancion>
+            <titulo>
+                That Girl
+            </titulo>
+            <duracion>
+                3:07
+            </duracion>
+        </cancion>
+        <cancion>
+            <titulo>
+                Sunlight
+            </titulo>
+            <duracion>
+                3:50
+            </duracion>
+        </cancion>
+        <cancion>
+            <titulo>
+                I Really Want You
+            </titulo>
+            <duracion>
+                3:58
+            </duracion>
+        </cancion>
+        <cancion>
+            <titulo>
+                Meet Me in California
+            </titulo>
+            <duracion>
+                3:34
+            </duracion>
+        </cancion>
+        <cancion>
+            <titulo>
+                Someday
+            </titulo>
+            <duracion>
+                3:40
+            </duracion>
+        </cancion>
+    </disco>
+    <disco>
+        <titulo>
+            Night Visions
+        </titulo>
+        <autor>
+            Imagine Dragons
+        </autor>
+        <cancion>
+            <titulo>
+                Radioactive
+            </titulo>
+            <duracion>
+                3:06
+            </duracion>
+        </cancion>
+        <cancion>
+            <titulo>
+                Tiptoe
+            </titulo>
+            <duracion>
+                3:14
+            </duracion>
+        </cancion>
+        <cancion>
+            <titulo>
+                It's Time
+            </titulo>
+            <duracion>
+                4:00
+            </duracion>
+        </cancion>
+        <cancion>
+            <titulo>
+                Demons
+            </titulo>
+            <duracion>
+                2:57
+            </duracion>
+        </cancion>
+        <cancion>
+            <titulo>
+                On Top of the World
+            </titulo>
+            <duracion>
+                3:12
+            </duracion>
+        </cancion>
+        <cancion>
+            <titulo>
+                Amsterdam
+            </titulo>
+            <duracion>
+                4:01
+            </duracion>
+        </cancion>
+        <cancion>
+            <titulo>
+                Hear Me
+            </titulo>
+            <duracion>
+                3:55
+            </duracion>
+        </cancion>
+        <cancion>
+            <titulo>
+                Every Night
+            </titulo>
+            <duracion>
+                3:37
+            </duracion>
+        </cancion>
+        <cancion>
+            <titulo>
+                Bleeding Out
+            </titulo>
+            <duracion>
+                3:43
+            </duracion>
+        </cancion>
+    </disco>
+</discoteca>

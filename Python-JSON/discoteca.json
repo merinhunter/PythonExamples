@@ -1,0 +1,92 @@
+{
+    "discoteca": [
+        {
+            "autor": "Plain White T's", 
+            "titulo": "Big Bad World", 
+            "canciones": [
+                {
+                    "titulo": "Big Bad World", 
+                    "duracion": "3:07"
+                }, 
+                {
+                    "titulo": "Natural Disaster", 
+                    "duracion": "3:40"
+                }, 
+                {
+                    "titulo": "Serious Mistake", 
+                    "duracion": "3:32"
+                }, 
+                {
+                    "titulo": "Rainy Day", 
+                    "duracion": "3:11"
+                }, 
+                {
+                    "titulo": "1234", 
+                    "duracion": "3:18"
+                }, 
+                {
+                    "titulo": "That Girl", 
+                    "duracion": "3:07"
+                }, 
+                {
+                    "titulo": "Sunlight", 
+                    "duracion": "3:50"
+                }, 
+                {
+                    "titulo": "I Really Want You", 
+                    "duracion": "3:58"
+                }, 
+                {
+                    "titulo": "Meet Me in California", 
+                    "duracion": "3:34"
+                }, 
+                {
+                    "titulo": "Someday", 
+                    "duracion": "3:40"
+                }
+            ]
+        }, 
+        {
+            "autor": "Imagine Dragons", 
+            "titulo": "Night Visions", 
+            "canciones": [
+                {
+                    "titulo": "Radioactive", 
+                    "duracion": "3:06"
+                }, 
+                {
+                    "titulo": "Tiptoe", 
+                    "duracion": "3:14"
+                }, 
+                {
+                    "titulo": "It's Time", 
+                    "duracion": "4:00"
+                }, 
+                {
+                    "titulo": "Demons", 
+                    "duracion": "2:57"
+                }, 
+                {
+                    "titulo": "On Top of the World", 
+                    "duracion": "3:12"
+                }, 
+                {
+                    "titulo": "Amsterdam", 
+                    "duracion": "4:01"
+                }, 
+                {
+                    "titulo": "Hear Me", 
+                    "duracion": "3:55"
+                }, 
+                {
+                    "titulo": "Every Night", 
+                    "duracion": "3:37"
+                }, 
+                {
+                    "titulo": "Bleeding Out", 
+                    "duracion": "3:43"
+                }
+            ]
+        }
+    ]
+}

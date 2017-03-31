@@ -1,0 +1,26 @@
+<?xml version="1.1" encoding="utf-8"?>
+<discoteca>
+    <disco titulo="Big Bad World" autor="Plain White T's">
+        <cancion titulo="Big Bad World" duracion="3:07"/>
+        <cancion titulo="Natural Disaster" duracion="3:40"/>
+        <cancion titulo="Serious Mistake" duracion="3:32"/>
+        <cancion titulo="Rainy Day" duracion="3:11"/>
+        <cancion titulo="1234" duracion="3:18"/>
+        <cancion titulo="That Girl" duracion="3:07"/>
+        <cancion titulo="Sunlight" duracion="3:50"/>
+        <cancion titulo="I Really Want You" duracion="3:58"/>
+        <cancion titulo="Meet Me in California" duracion="3:34"/>
+        <cancion titulo="Someday" duracion="3:40"/>
+    </disco>
+    <disco titulo="Night Visions" autor="Imagine Dragons">
+        <cancion titulo="Radioactive" duracion="3:06"/>
+        <cancion titulo="Tiptoe" duracion="3:14"/>
+        <cancion titulo="It's Time" duracion="4:00"/>
+        <cancion titulo="Demons" duracion="2:57"/>
+        <cancion titulo="On Top of the World" duracion="3:12"/>
+        <cancion titulo="Amsterdam" duracion="4:01"/>
+        <cancion titulo="Hear Me" duracion="3:55"/>
+        <cancion titulo="Every Night" duracion="3:37"/>
+        <cancion titulo="Bleeding Out" duracion="3:43"/>
+    </disco>
+</discoteca>
