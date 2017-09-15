@@ -1,7 +1,7 @@
 #!/usr/bin/python -tt
 # -*- coding: utf-8 -*-
 
-#Diseñado para discoteca.01
+# Diseñado para discoteca.01
 import sys
 import xml.etree.cElementTree as ET
 from argparse import ArgumentParser
